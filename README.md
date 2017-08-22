@@ -1,2 +1,8 @@
 # MapReduce_Toy_Examples
-A repository for Hadoop MapReduce toy examples
+
+This repository will contain a series of Hadoop MapReduce example written in Java. Includes:
+
+- Word Count
+- Invert Index
+- Matrix and Vector Multiplication
+- Matrix and Matrix Multiplication
