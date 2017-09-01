@@ -1,0 +1,2 @@
+Hadoop is super cool
+I love MapReduce

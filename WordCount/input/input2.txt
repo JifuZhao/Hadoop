@@ -1,0 +1,2 @@
+I love Big Data
+Hadoop is useful for Big Data analysis
