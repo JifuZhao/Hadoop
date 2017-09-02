@@ -1,0 +1,14 @@
+analysis	input3.txt
+and	input1.txt
+big	input2.txt->input3.txt->input1.txt
+cool	input1.txt
+data	input2.txt->input3.txt->input1.txt
+for	Input4.txt->input3.txt
+fun	input1.txt
+hadoop	input1.txt->Input4.txt->input3.txt
+i	input1.txt->input2.txt
+is	input1.txt->Input4.txt->input3.txt->input2.txt
+java	Input4.txt
+love	input1.txt->input2.txt
+super	input1.txt
+useful	Input4.txt->input3.txt->input2.txt

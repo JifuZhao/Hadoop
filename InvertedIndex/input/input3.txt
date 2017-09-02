@@ -1,0 +1,1 @@
+Hadoop is useful for Big Data analysis
