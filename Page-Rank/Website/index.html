@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pagerank</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/typo.css">
+    <script src="js/jquery-3.1.1.min.js"></script>
+    <script src="js/d3.min.js"></script>
+</head>
+<body>
+<p><img src="images/hadoop.jpg"></p>
+<h1><strong class="white">Page Rank Visualization</strong></h1>
+<p>Modified by Jifu Zhao</p>
+<div class="content" id="content">
+    <form>
+        <input type="text" class="searchbar" name="query" id="query" value="">
+        <button class="searchbtn" type="submit">Search</button>
+    </form>
+</div>
+
+<svg width="1024" height="640"></svg>
+
+<ol>
+    <li>Black dot: selected page</li>
+    <li>Line thickness: relative page rank value</li>
+    <li>Click dot to enter next page</li>
+</ol>
+<script src="js/main.js"></script>
+</body>
+</html>
